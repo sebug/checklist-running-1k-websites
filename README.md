@@ -54,4 +54,11 @@ Disk-level snapshots
 
 https://docs.ceph.com/docs/giant/rbd/rbd-snapshot
 
+## Monitoring
+NewRelic
+
+TideWays
+
+## Conclusion
+Stricter guardrails
 

@@ -32,6 +32,18 @@ Pull-based model.
 ## Infrastructure
 If you have to open a ticket for anything - 1 star.
 
+Parity of infrastructure versions on dev and prod.
 
+## Isolation
+Platform.sh - multitenant docker images for some clients, dedicated hardware for the rest.
+
+## Disaster recovery
+4 stars: automatic replacement of failed infrastructure, data attaches itself to the new services that come up.
+
+## Immutable
+4 stars - your code on a read-only file system.
 
 ## Updates & maintenance
+Security checks: http://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies
+
+

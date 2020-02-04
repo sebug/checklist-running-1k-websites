@@ -46,4 +46,12 @@ Platform.sh - multitenant docker images for some clients, dedicated hardware for
 ## Updates & maintenance
 Security checks: http://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies
 
+## What leads to an update
+Most of the time, only the references to upstream packages change.
+
+## Backups
+Disk-level snapshots
+
+https://docs.ceph.com/docs/giant/rbd/rbd-snapshot
+
 
